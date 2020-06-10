@@ -8,7 +8,6 @@ sprites.onOverlap(SpriteKind.Player, SpriteKind.Food, function (sprite, otherSpr
 // Eaten by a shark? Game over.
 sprites.onOverlap(SpriteKind.Player, SpriteKind.Enemy, function (sprite, otherSprite) {
     game.over(false)
-    game.splash("")
 })
 let foodPellet: Sprite = null
 let shark: Sprite = null
