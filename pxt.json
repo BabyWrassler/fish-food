@@ -10,7 +10,22 @@
         "README.md"
     ],
     "preferredEditor": "blocksprj",
-    "testFiles": [
-        "test.ts"
+    "palette": [
+        "#000000",
+        "#f173ac",
+        "#f49ac1",
+        "#f8c1d9",
+        "#ee2f4e",
+        "#b43e97",
+        "#c77eb5",
+        "#6ec05d",
+        "#b1d355",
+        "#00af62",
+        "#f8c1d9",
+        "#6dcff6",
+        "#badaf3",
+        "#f6b040",
+        "#ffd540",
+        "#000000"
     ]
 }
