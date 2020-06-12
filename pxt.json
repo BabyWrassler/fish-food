@@ -1,15 +1,18 @@
 {
     "name": "Who's The Catch?",
+    "description": "",
     "dependencies": {
         "device": "*"
     },
-    "description": "",
     "files": [
         "main.blocks",
         "main.ts",
         "README.md"
     ],
-    "preferredEditor": "tsprj",
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
     "palette": [
         "#000000",
         "#f173ac",
